@@ -1,0 +1,17 @@
+{
+  "name": "luogu_clawer",
+  "version": "0.1.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "author": "rogeryoungh",
+  "license": "ISC",
+  "dependencies": {
+    "superagent": "^1.0.0",
+    "cli-table": "^0.3.11",
+    "toml": "^3.0.0",
+    "fs": "^0.1.0"
+  }
+}
