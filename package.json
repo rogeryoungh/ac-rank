@@ -1,17 +1,25 @@
 {
-  "name": "luogu_clawer",
+  "name": "ac-rank",
   "version": "0.1.0",
   "description": "",
   "main": "main.js",
   "scripts": {
     "test": "node main.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rogeryoungh/ac-rank.git"
+  },
   "author": "rogeryoungh",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rogeryoungh/ac-rank/issues"
+  },
+  "homepage": "https://github.com/rogeryoungh/ac-rank#readme",
   "dependencies": {
-    "superagent": "^1.0.0",
     "cli-table": "^0.3.11",
-    "toml": "^3.0.0",
-    "fs": "^0.1.0"
+    "file-system": "^1.2.2",
+    "superagent": "^7.1.1",
+    "toml": "^3.0.0"
   }
 }
